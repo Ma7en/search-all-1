@@ -1,0 +1,40 @@
+
+/* 
+&&&& samll 
+
+*/
+
+@media (min-width: 768px) {
+    .container {
+        width: 750px;
+    }
+
+
+
+/* search-2 */
+    .search-2 .search-results .box .box-left {
+        text-align: left;
+    }
+
+    .search-2 .search-results .box {
+        flex-wrap: nowrap;
+    }
+
+
+/*  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+

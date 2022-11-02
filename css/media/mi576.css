@@ -1,0 +1,24 @@
+
+
+@media (min-width: 576px) {
+    
+
+/* search-2 */
+    .search-2 .search_2 .btn-search:focus ~ .input-search,
+    .search-2 .search_2 .input-search:focus {
+        width: 50rem;
+    }
+
+
+/* */
+
+
+
+
+
+
+
+
+
+
+}
